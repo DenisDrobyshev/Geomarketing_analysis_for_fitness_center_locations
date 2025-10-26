@@ -1,0 +1,11 @@
+pandas 
+numpy 
+geopandas 
+osmnx==1.6.0
+h3 
+scikit-learn 
+folium 
+leafmap 
+matplotlib 
+seaborn
+plotly 
